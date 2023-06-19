@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Installing dependencies..."
+      - echo “Python Check”
+      # Add commands here to install any dependencies your application requires
+
+  build:
+    commands:
+      - echo "Building the application..."

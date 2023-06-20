@@ -20,7 +20,7 @@ Running code in the ec2 instance:
 ![image](https://github.com/lavanyavasanth17/my-project/assets/121149803/c3d462cd-d357-4409-bd74-f53f51a7f60e)
 
 
-
+##Pipeline Check
 To run the application please run the following commands:
 
            # cd /home/ec2-user/demo-repo/
